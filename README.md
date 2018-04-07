@@ -3,7 +3,7 @@
 Just a collection of examples, copy and pastes made during my TF course.
 
 
-## Install
+## Install
 
     pip install -r requirements.txt
 

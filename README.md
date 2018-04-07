@@ -1,6 +1,7 @@
 # TF Course
 
-Just a collection of examples, copy and pastes made during my TF course
+Just a collection of examples, copy and pastes made during my TF course.
+
 
 ## Install
 
